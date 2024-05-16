@@ -1,0 +1,1 @@
+Na aula de hoje começamos a utilizar o Bootstrap para criação de páginas e foram passados dois exercícios simples para começarmos a utilizar essa ferramenta. Um index tem um contador de cliques simples e outro index possui um esquema para calcular alguns resultados para um número específico.
